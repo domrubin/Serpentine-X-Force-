@@ -1,1 +1,2 @@
 # Serpentine-X-Force-
+As an introduction to Game Programming, Serpentine X-Force served an important role in introducing me to the initial steps in programming in C# through Unity. I worked as co-prgrammer with one other person, and our goal was to make the game stand out mechanincally. Therefore, we settled on co-op puzzle platformer where the two players push and pull eachother to navigate levels. The end result is a brief example that introduced me to the concept of basic game programming and level design. I hope t revisit this project and expand upon it in the future.
